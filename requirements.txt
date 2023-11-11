@@ -1,0 +1,7 @@
+pandas
+numpy
+tensorflow-gpu
+matplotlib
+Pillow
+scikit-learn
+livelossplot
